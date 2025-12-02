@@ -1,16 +1,34 @@
-# React + Vite
+# To-Do List React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um aplicativo web de lista de tarefas simples e funcional, desenvolvido em **React**.  
+Permite adicionar, marcar como concluídas e remover tarefas, com **salvamento automático no navegador** usando LocalStorage.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Tecnologias Utilizadas
 
-## React Compiler
+- **React** – Biblioteca para construção de interfaces
+- **JavaScript (ES6+)** – Lógica do aplicativo
+- **HTML & CSS** – Estrutura e estilização
+- **Vite** – Ferramenta de build e dev server
+- **LocalStorage** – Persistência de dados no navegador
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Adicionar novas tarefas
+- Marcar tarefas como concluídas
+- Remover tarefas individuais
+- Persistência automática das tarefas no navegador
+- Layout responsivo e limpo
+- Experiência de usuário intuitiva
+
+---
+
+## ⚡ Como Rodar o Projeto
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repo.git
