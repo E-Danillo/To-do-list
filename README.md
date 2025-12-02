@@ -31,4 +31,4 @@ Permite adicionar, marcar como concluídas e remover tarefas, com **salvamento a
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/E-Danillo/To-do-list.git
