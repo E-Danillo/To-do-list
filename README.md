@@ -1,22 +1,20 @@
-# To-Do List React
+# To Do List em React
 
+## 🟩 Descrição  
 Um aplicativo web de lista de tarefas simples e funcional, desenvolvido em **React**.  
 Permite adicionar, marcar como concluídas e remover tarefas, com **salvamento automático no navegador** usando LocalStorage.
 
 ---
 
-## 🌟 Tecnologias Utilizadas
-
-- **React** – Biblioteca para construção de interfaces
-- **JavaScript (ES6+)** – Lógica do aplicativo
-- **HTML & CSS** – Estrutura e estilização
-- **Vite** – Ferramenta de build e dev server
-- **LocalStorage** – Persistência de dados no navegador
+## 🟩 Tecnologias  
+- **React** 
+- **JavaScript (ES6+)** 
+- **HTML & CSS** 
+- **LocalStorage** 
 
 ---
 
-## 🚀 Funcionalidades
-
+## 🟩 Funcionalidades  
 - Adicionar novas tarefas
 - Marcar tarefas como concluídas
 - Remover tarefas individuais
@@ -26,9 +24,22 @@ Permite adicionar, marcar como concluídas e remover tarefas, com **salvamento a
 
 ---
 
-## ⚡ Como Rodar o Projeto
+## 🟩 Como rodar localmente
 
 1. Clone o repositório:
+   ```bash
+   git clone https://github.com/E-Danillo/to-do-list.git
+2. Entre na pasta:
+   ```bash
+   cd to-do-list
 
-```bash
-git clone https://github.com/E-Danillo/To-do-list.git
+3. Instale as dependências:
+    ```bash
+   npm install
+
+4. Rode o projeto:
+    ```bash
+   npm start
+
+Ou Acesse:
+   https://e-danillo.github.io/to-do-list/
